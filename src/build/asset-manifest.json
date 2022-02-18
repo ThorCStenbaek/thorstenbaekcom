@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ef4b0fb.css",
+    "main.js": "/static/js/main.aa17abed.js",
+    "static/js/787.a7146229.chunk.js": "/static/js/787.a7146229.chunk.js",
+    "static/media/black_white_me.png": "/static/media/black_white_me.ea97b9bd8310eb43919d.png",
+    "static/media/AboutPicOfMe.png": "/static/media/AboutPicOfMe.f91498f5308320c38bc2.png",
+    "static/media/epos.svg": "/static/media/epos.358582da39f7d877b96f22d7661c6a08.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/LinkedIn-Diploma.svg": "/static/media/LinkedIn-Diploma.0f1a8cf351ce56128eea15b20e945ef3.svg",
+    "static/media/Mentor.svg": "/static/media/Mentor.04d91f053e4dee0c98f285ef933a8bc3.svg",
+    "static/media/teacher.svg": "/static/media/teacher.4c7303013c8e7b31ed01eb3cccf992e2.svg",
+    "static/media/diploma.svg": "/static/media/diploma.637694b9d85515c3d826014b062577c9.svg",
+    "static/media/graduate-cap.svg": "/static/media/graduate-cap.62dfba762c77cd05a78aae320a43a3e5.svg",
+    "index.html": "/index.html",
+    "static/media/LinkedIn.svg": "/static/media/LinkedIn.04e419b047cee444054a1684e4997d49.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.d468277f42a64d2a8c81204d234de195.svg",
+    "main.2ef4b0fb.css.map": "/static/css/main.2ef4b0fb.css.map",
+    "main.aa17abed.js.map": "/static/js/main.aa17abed.js.map",
+    "787.a7146229.chunk.js.map": "/static/js/787.a7146229.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef4b0fb.css",
+    "static/js/main.aa17abed.js"
+  ]
+}
