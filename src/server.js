@@ -1,5 +1,5 @@
 import express from 'express';
-import bodyParser from 'Body-parser'
+import bodyParser from 'body-parser'
 
 import http from 'http';
 
