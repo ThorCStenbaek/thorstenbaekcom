@@ -1,12 +1,13 @@
 import express from 'express';
 import bodyParser from 'body-parser'
 
-import http from 'http';
+import http, { Server } from 'http';
 
 import { MongoClient } from 'mongodb';
 
 import { fileURLToPath } from 'url'
 import path,{ dirname} from 'path'
+import { env } from 'process';
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 var app = express()
@@ -392,5 +393,6 @@ app.post('/login', async (req, res) => {
 app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname + '/build/index.html'))
 })
+const PORT= process.env.PORT || 8000
 
-app.listen(8000, () => console.log("Listening on port 8000"))
+app.listen(PORT, () => console.log("Listening on port 8000"))
